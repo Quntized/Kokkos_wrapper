@@ -24,6 +24,7 @@ This is here for me to track what has been changed through my end.
 10) [Refactoring AMD architecture loops](https://github.com/kokkos/kokkos/pull/9217)
 11) [A small typo in README.md](https://github.com/kokkos/kokkos/pull/9355)
 12) [Duplicate source file accumulation in CMake test generation](https://github.com/kokkos/kokkos/pull/9135)
+13) [Remove duplicate PolicyTraitMatch definition](https://github.com/kokkos/kokkos/pull/9377)
 
 *Mdspan:*
 
